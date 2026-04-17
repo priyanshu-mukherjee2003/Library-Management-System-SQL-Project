@@ -126,9 +126,9 @@ REFERENCES issued_status(issued_id);
 
 ```
 
-```sql
--- INSERT Queries for all 6 TABLES:-
+### INSERT Queries for all 6 TABLES:-
 
+```sql
 -- Insert values into each branch table
 INSERT INTO members(member_id, member_name, member_address, reg_date) 
 VALUES
